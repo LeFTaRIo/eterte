@@ -1,0 +1,92 @@
+body {
+    font-family: sans-serif;
+    background-color: #FF6400;
+}
+
+header {
+    justify-content: space-between;
+    padding: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    background-color: #2D9B27;
+}
+
+.button {
+    background-color: #36bbce;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    justify-content: space-between;
+    display: flex;
+
+}
+
+.nav-link {
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 36px;
+    margin-top: ;
+    margin-bottom: ;
+}
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    flex-wrap: wrap;
+    width: 820px;
+    margin: 20px 70px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+article {
+    background-color: white;
+    padding: 26px 45px;
+    width: 300px;
+    margin: 40px;
+}
+
+.article-but {
+    text-decoration: none;
+    background-color: #052F6D;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+}
+
+footer {
+    background-color: #2D9B27;
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+footer a {
+    margin-right: 16px;
+}
+
+footer p {
+    font-size: 24px;
+}
+
+.footer_img{
+    display: flex;
+}
